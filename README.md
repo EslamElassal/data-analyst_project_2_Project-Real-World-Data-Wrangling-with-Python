@@ -1,5 +1,4 @@
 # data-analyst_project_2_Project-Real-World-Data-Wrangling-with-Python
-# Data Wrangling using Udacity Data Analyst 2
 
 Completing this project is the second out of three required for the Udacity Data Analyst Nanodegree program. It is intended to be an exercise in acquiring, evaluating, and cleaning data rather than a deep dive into the dataset.
 
